@@ -1,0 +1,17 @@
+{
+  "name": "ueditor-multiparty",
+  "description": "nodejs for ueditor",
+  "license": "MIT",
+  "author": {
+    "name": "hemiao"
+  },
+  "version": "0.0.1",
+  "dependencies": {
+    "multiparty": "^4.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeflyhm/ueditor-multiparty.git"
+  },
+  "main": "index.js"
+}
